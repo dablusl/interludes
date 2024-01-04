@@ -1,0 +1,58 @@
+personal_notes
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz
+
+# Virtual Environment
+venv/
+env/
+
+# Django
+*.log
+db.sqlite3
+
+# Angular
+node_modules/
+/dist/
+/e2e/*.log
+npm-debug.log
+
+# Java Spring Boot
+/target/
+*.iml
+*.jar
+*.war
+*.ear
+*.class
+
+# General
+.DS_Store
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+desktop.ini
+
+# Visual Studio Code
+.vscode/
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+/out/
